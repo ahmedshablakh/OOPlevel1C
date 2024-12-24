@@ -1,0 +1,16 @@
+﻿  clsString.cpp
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(38,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(55,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(192,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(323,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(371,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  DateLibraryProject.cpp
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(38,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(55,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(192,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(323,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\OOP-Level_1\DateLibraryProject\DateLibraryProject\clsString.h(371,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Generating Code...
+  DateLibraryProject.vcxproj -> C:\c++_project\OOP-Level_1\DateLibraryProject\x64\Debug\DateLibraryProject.exe
